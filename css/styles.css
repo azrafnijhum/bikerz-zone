@@ -1,0 +1,15 @@
+.bikerz-zone-light-red{
+    background-color: rgba(255, 0, 0, 0.281);
+}
+.rating-icon{
+    width: 20px;
+}
+/* override bootstrap changing name */
+.btn-bz-danger{
+    background-color: rgb(167, 81, 144);
+    color: white;
+}
+/* override bootstrap using !important */
+.w-25{
+    width: 75%!important;
+}
